@@ -12,7 +12,8 @@ Interfaces: Wi-Fi & Ethernet
 Filter used:
 
 dns
-dns-filter.png
+![DNS Traffic](images/dns-filter.png)
+
 
 Captured DNS queries and responses while browsing.
 
