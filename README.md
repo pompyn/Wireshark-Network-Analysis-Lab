@@ -26,7 +26,7 @@ Captured DNS queries and responses while browsing.
 
 Filter used:
 
-icmp
+![ICMP FILTER](images/icmp.png)
 
 
 Sent ping requests to Google DNS server (8.8.8.8).
@@ -34,7 +34,7 @@ Sent ping requests to Google DNS server (8.8.8.8).
 ✅ Shows echo request/reply workflow.
 
 📸 Screenshot – ICMP Ping
-ping.png
+![ICMP Ping](images/ping.png)
 
 3. ICMP Ping Flood (Noisy Traffic Simulation)
 
