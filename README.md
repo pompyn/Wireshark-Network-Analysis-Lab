@@ -26,7 +26,7 @@ Captured DNS queries and responses while browsing.
 
 Filter used:
 
-![ICMP FILTER](images/icmp.png)
+![ICMP FILTER](images/dns.png)
 
 
 Sent ping requests to Google DNS server (8.8.8.8).
