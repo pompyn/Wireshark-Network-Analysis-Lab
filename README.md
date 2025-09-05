@@ -11,16 +11,13 @@ Interfaces: Wi-Fi & Ethernet
 
 Filter used:
 
-dns
-![DNS Traffic](images/dns-filter.png)
-
 
 Captured DNS queries and responses while browsing.
 
 ✅ Confirms ability to isolate name resolution traffic.
 
 📸 Screenshot – DNS Queries
-
+![DNS Traffic](images/dns-filter.png)
 
 2. ICMP Ping Test
 
@@ -67,7 +64,7 @@ Captured QUIC/TLS packets while streaming YouTube.
 ✅ Shows encrypted traffic for modern applications.
 
 📸 Screenshot – YouTube Traffic
-![ICMP Ping](images/youtube-traffic.png)
+![STREAMING](images/youtube-traffic.png)
 
 🌐 Bonus: Multi-Interface Comparison
 
