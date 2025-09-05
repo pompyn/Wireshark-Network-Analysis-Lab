@@ -34,7 +34,7 @@ Sent ping requests to Google DNS server (8.8.8.8).
 ✅ Shows echo request/reply workflow.
 
 📸 Screenshot – ICMP Ping
-![ICMP Ping](images/ping -t.png)
+![ICMP Ping](images/ping.png)
 
 3. ICMP Ping Flood (Noisy Traffic Simulation)
 
@@ -48,7 +48,7 @@ Generated continuous ICMP packets to simulate suspicious traffic.
 ✅ Demonstrates anomaly detection (DoS-like behavior).
 
 📸 Screenshot – ICMP Ping Flood
-![ICMP Ping](images/ping.png)
+![ICMP Ping](images/ping-t.png)
 
 4. Encrypted Traffic (YouTube Streaming)
 
@@ -76,7 +76,7 @@ Performed captures on Wi-Fi and Ethernet.
 ✅ Showed differences in IP addresses and traffic patterns.
 
 📸 Screenshot – Ethernet Capture
-![ICMP Ping](images/ethernet-capture.png)
+![wifi capture](images/ethernet-capture.png)
 
 📊 Lessons Learned
 
