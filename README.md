@@ -22,6 +22,7 @@ Captured DNS queries and responses while browsing.
 2. ICMP Ping Test
 
 Filter used:
+DNS
 
 ![ICMP FILTER](images/dns.png)
 
