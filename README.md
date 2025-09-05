@@ -76,7 +76,7 @@ Performed captures on Wi-Fi and Ethernet.
 ✅ Showed differences in IP addresses and traffic patterns.
 
 📸 Screenshot – Ethernet Capture
-!ETHERNET CAPTURE](images/ethernet-capture.png)
+![ETHERNET CAPTURE](images/ethernet-capture.png)
 
 📊 Lessons Learned
 
